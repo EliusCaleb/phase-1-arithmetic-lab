@@ -6,7 +6,7 @@
    const multiply = num1 *num2;
 
 
-  //const random = Math.floor(Math.random() * 1) + 5;
+  
   const random = Number.isInteger(Math.random() * 1) + 5;
 
 
